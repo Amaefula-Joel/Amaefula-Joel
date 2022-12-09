@@ -1,5 +1,3 @@
-- 👋 Hi,Amaefula Joel here 👋
-- 👤 A Full-stack Web Developer based in Nigeria.
-- 💻 Familiar with HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, PHP, MYSQL.
-- 👀 I’m interested in knowing more the world of Programming.
-- 🌱 I’m currently learning AngularJs.
+- 👋 Hi, Amaefula Joel here 👋
+- 👤 A Full-stack Web Developer ready to take on both local and remote jobs.
+- Watch me make things happen
